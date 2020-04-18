@@ -1,4 +1,4 @@
-# learning-deep-learning-coursera
+# deep-learning-coursera
 
 This repository is about course "CS230 - Deep Learning" based on Coursera and Stanford.edu.com
 
