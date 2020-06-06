@@ -29,6 +29,8 @@ In this repository, I will update slides and exercises every week.
 - [Part 3: Convolutional Neural Network](https://github.com/dangnam739/deep-learning-coursera/tree/master/Convolution%20Neural%20Network)
 
   - [Week 1 - Foundations of Covolutional Neural Network](https://github.com/dangnam739/deep-learning-coursera/tree/master/Convolution%20Neural%20Network/Week%201%20-%20Foundations%20of%20Convolutional%20Neural%20Networks)
+  
+  - [Week 2 - Deep convolutional models case studies](https://github.com/dangnam739/deep-learning-coursera/tree/master/Convolution%20Neural%20Network/Week%202%20-%20Deep%20convolutional%20models%20case%20studies)
 
 - [Part 4: Sequence Models](https://github.com/dangnam739/learning-deep-learning-coursera/tree/master/Sequence%20Models)
   - [Week 1 - Recurrent Neural Networks](https://github.com/dangnam739/learning-deep-learning-coursera/tree/master/Sequence%20Models/Recurrent%20Neural%20Networks)
